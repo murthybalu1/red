@@ -10,6 +10,4 @@ package "git" do
   action :install
 end
 
-service "git" do
-end
 
